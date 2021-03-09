@@ -1,6 +1,8 @@
 # Distributed_Java_and_C_code_system
 
-This was a fun school project that deals with java and c code communicating 
+This was a fun school project that deals with java and c code communicating.
+The client sends a beacon every 60seconds to the server and the server can make computational request to the cilent.
+
 If you are intrested in trying it yourself, the project description is in 
 [ **ProjectDes.pdf** ](https://github.com/yemistar/Distributed_Java_and_C_code_system/blob/main/ProjectDes.pdf).
 
