@@ -1,6 +1,6 @@
 # Distributed_Java_and_C_code_system
 
-This was a fun school project that deals with java and c code communcating 
+This was a fun school project that deals with java and c code communicating 
 If you are intrested in trying it yourself, the project description is in 
 [ **ProjectDes.pdf** ](https://github.com/yemistar/Distributed_Java_and_C_code_system/blob/main/ProjectDes.pdf).
 
